@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-b#9v-v-ev&mg_lqphfk&b7eh%bft9+7r2pn%qkk2(471trpo(u
 os.environ.get('SECRET_KET')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-axellewing-codestar-5zg3fn0zpnq.ws-eu107.gitpod.io','.herokuapp.com']
 
